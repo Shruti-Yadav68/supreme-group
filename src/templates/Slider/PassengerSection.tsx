@@ -129,7 +129,6 @@ const PassengerSection: React.FC<PassengerSectionProps> = ({ isActive }) => {
                 strokeWidth="2.5"
                 strokeDasharray="144.51"
                 strokeDashoffset={dashOffset}
-                transition="stroke-dashoffset 0.1s linear"
               ></circle>
             </svg>
           </div>
